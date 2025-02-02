@@ -11,3 +11,4 @@ DESCRIPTION
 Quantity and profit trends by state
 Sales performance by payment mode Enabling actionable insights through data-driven storytelling.
 # output
+[python.integrtation.pdf](https://github.com/user-attachments/files/18631845/python.integrtation.pdf)
